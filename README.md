@@ -10,4 +10,6 @@ Below is a summary of the tools and the process used to accomplish this task:
 - Beautiful Soup: Extract and parse website data using insight gained via Chrome Developer Tools
 - MongoDB: NoSQL database used to store scraped Mars data
 - Flask: Create a webpage to display our stored data
-- Bootstrap: Customize and prettify our webpage
+- Bootstrap: Customize and prettify our webpage  
+
+![Mars page](/Screenshots/Mars_page.PNG)
